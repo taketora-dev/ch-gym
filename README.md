@@ -13,7 +13,7 @@
 
 * Optimized, idles at 0.00 and doesn't go above 0.01 during workouts.
 
-* Fully working for ox_target (Push ups/Sit ups will not work on ox_target yet).
+* Fully working for ox_target
 
 **Preview**
 https://youtu.be/Yw87lehvNxY
