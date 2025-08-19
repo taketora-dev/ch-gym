@@ -1,6 +1,6 @@
 local QBCore = exports['qb-core']:GetCoreObject()
 local Config = {
-    TargetingSystem = 'qb-target' 
+    TargetingSystem = 'ox_target' 
 }
 
 local stressRemovalAmount = GetStressRemovalAmount()
@@ -358,3 +358,4 @@ AddEventHandler('onResourceStop', function(resourceName)
         deleteDumbbellProps()
     end
 end)
+
